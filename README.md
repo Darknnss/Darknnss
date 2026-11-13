@@ -2,15 +2,13 @@
 
 I hold a degree in Software Engineering from the [Federal Technological University of Paraná](http://www.utfpr.edu.br/), and am currently pursuing a Master’s in Applied Computing. I live in Londrina, PR, and work as a Quality Assurance Analyst, passionate about Test Automation and technologies like JavaScript, TypeScript, and Cypress. I’m also a fan of good music, cycling, and Liverpool FC.
 
-Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio/)
-
 ***
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:363636,100:4F4F4F&height=150&section=header&text=%20%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=%20%&descAlignY=50">
-   <div align="center">        
+  <!-- <div align="center">        
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darknnss&show_icons=true&count_private=true&hide_border=true&title_color=fffF&icon_color=fff&text_color=fff&bg_color=0d1117" alt=" github stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknnss&layout=compact&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117&langs_count=8" />
-</div> 
+</div> -->
 </div>
 </div>
   </div>
